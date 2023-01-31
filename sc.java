@@ -1,6 +1,6 @@
 public class sc {
   public static void main(String[] args) {
-    int day = 4;
+    int day = 6;
     switch (day) {
       case 6:
         System.out.println("Today is Saturday");
