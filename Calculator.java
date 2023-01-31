@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-public class javaCalculator 
+public class Calculator 
 {
 
     public static void main(String[] args) 
