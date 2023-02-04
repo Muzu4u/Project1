@@ -1,4 +1,4 @@
-package com.journaldev.examples;
+//package com.journaldev.examples;
 
 import java.util.Scanner;
 
