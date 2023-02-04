@@ -11,15 +11,15 @@ public class Addition
         String operation;
 
 
-        Scanner input = new Scanner(System.in);
+//        Scanner input = new Scanner(System.in);
 
         System.out.println("please enter the first number");
-        num1 = input.nextInt();
-
+        num1 = env.num1;
+	System.out.println(env.num1);
         System.out.println("please enter the second number");
-        num2 = input.nextInt();
+        num2 = env.num2;
 
-            System.out.println("your answer is: " + (num1 + num2));
+            System.out.println("your answer is: " + (env.num1 + env.num2));
 
     }
 }
